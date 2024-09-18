@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/NUMERIC_OPERATIONS.dir/src/main.cpp.o -o NUMERIC_OPERATIONS 

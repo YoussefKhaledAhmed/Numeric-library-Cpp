@@ -1,0 +1,3 @@
+/home/youssef/Desktop/cpp_applications/Modern_cpp_course/Graduation_project/build/CMakeFiles/NUMERIC_OPERATIONS.dir
+/home/youssef/Desktop/cpp_applications/Modern_cpp_course/Graduation_project/build/CMakeFiles/edit_cache.dir
+/home/youssef/Desktop/cpp_applications/Modern_cpp_course/Graduation_project/build/CMakeFiles/rebuild_cache.dir

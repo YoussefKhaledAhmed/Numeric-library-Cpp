@@ -114,13 +114,21 @@ void sub_test(){
 
 
 void custom_class_test(){
+    /* creating object of custom class and initializing it with string: * 
+     * "Youssef".                                                       */
     custom <std::string> str("Youssef");
+
+    /* creating object of custom class and initializing it with string: * 
+     * "zaied".                                                         */
     custom <std::string> str2("zaied");
 
+    /* using print_string() method */
     str.print_string();
     str2.print_string();
 
-
+    /* testing the overloading of the [] operator */
     std::cout << "str[2] -> "<<str[2]<<"\n";
+
+    /* testing the overloading of the - operator */
     std::cout << "str - str2: " << str - str2<<"\n";
 }
